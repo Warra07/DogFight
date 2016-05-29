@@ -1,8 +1,7 @@
 
 public class hh {
 
-	public hh() {
-		// TODO Auto-generated constructor stub
+	public hh() {System.out.println("fzjfkzljsf");
 	}
 
 }
